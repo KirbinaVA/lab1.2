@@ -1,6 +1,3 @@
-# CSD-ProgLang-2018-2
-frontend javascript for json api backend from https://github.com/AndreevAE/CSD-ProgLang-2018-1
-
 # Task
 Задание 2 - написать на языке JS клиентское веб приложение реализующее json API методы для доступа к файловой системе.
 
@@ -10,7 +7,6 @@ frontend javascript for json api backend from https://github.com/AndreevAE/CSD-P
 
 Необходимо модифицировать код Задания 1, что бы тот по url / отдавал код клиентского js. Для успешной сдачи необходимо предоставить описание протокола.
 
-Срок выполнения 1 задания - 29 ноября
 
 # Starting App
 Just paste code from script.js to script tag ```<script> ... </script>``` in first task
